@@ -1,6 +1,5 @@
 # Sorting Visualizer
 
-[Download](https://github.com/dipesh-m/Sorting-Visualizer/releases/tag/1.0)
 
 Visualization of different sorting algorithms in C++ with SDL2 Library.
 
